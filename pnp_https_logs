@@ -1,0 +1,14 @@
+*Nov 30 22:28:44.023: %CRYPTO_ENGINE-5-KEY_ADDITION: A key named TP-self-signed-2054538960.server has been generated or imported by crypto-engine
+Loading http://X.X.X.X:8000/ios.p7b !!!
+*Nov 30 22:28:46.434: %SMART_LIC-5-SYSTEM_CLOCK_CHANGED: Smart Agent for Licensing System clock has been changed
+*Nov 30 22:28:47.280: %PKI-6-TRUSTPOOL_DOWNLOAD_SUCCESS: Trustpool Download is successful
+*Nov 30 22:28:47.617: %PNP-6-HTTP_CONNECTING: PnP Discovery trying to connect to PnP server https://X.X.X.X:5000/pnp/HELLO
+Would you like to enter the initial configuration dialog? [yes/no]:
+
+*Nov 30 21:54:36.136: %PKI-4-NOCONFIGAUTOSAVE: Configuration was modified.  Issue "write memory" to save new IOS PKI configuration
+*Nov 30 21:54:36.399: %CRYPTO_ENGINE-5-KEY_ADDITION: A key named TP-self-signed-2054538960.server has been generated or imported by crypto-engine
+Loading http://X.X.X.X.:8000/ios.p7b !!!
+*Nov 30 21:54:41.262: %SMART_LIC-5-SYSTEM_CLOCK_CHANGED: Smart Agent for Licensing System clock has been changed
+*Nov 30 21:54:42.044: %PKI-6-TRUSTPOOL_DOWNLOAD_SUCCESS: Trustpool Download is successful
+*Nov 30 21:54:42.371: %PNP-6-HTTP_CONNECTING: PnP Discovery trying to connect to PnP server https://X.X.X.X:5000/pnp/HELLO
+%Error opening tftp://255.255.255.255/Switch-confg (Timed out)
